@@ -17,4 +17,4 @@ Built Amazon's landing page using HTML and Tailwind CSS.
 
 ---
 
-Thank you for checking out this Amazon Clone project! If you have any questions or feedback, please feel free to contact us at [rhitik11.work@gmail.com].
+Thank you for checking out this Amazon Clone project! If you have any questions or feedback, please feel free to contact  at [rhitik11.work@gmail.com].
